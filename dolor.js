@@ -1,1 +1,1 @@
-Dolor sit amet!
+console.log('I am the Best!');
